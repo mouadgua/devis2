@@ -1,0 +1,6 @@
+{
+  "name": "FactureFlash - Générateur Devis & Factures",
+  "description": "Générateur ultra-rapide de devis et factures avec interface Bento, aperçu papier en direct, téléchargement PDF et envoi direct par WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
